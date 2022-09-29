@@ -8,7 +8,7 @@ Bu konudaki sorularımı Guuugıllarken kendimi bir Python kütüphanesi olan �
 
 Selenium, farklı tarayıcılarda web uygulamalarını test etmek için kullanılan açık kaynaklı ve ücretsiz test aracıdır. Kendini tekrar eden işlemlerin manuel olarak yapıldığında ortaya çıkan ekstra iş yükünü ortadan kaldırarak, süreci otomatikleştirmek ve zaman kazanmamızı sağlamaktır. Aslında burada otomasyonların ortaya çıkış sebebini de bir nevi açıklamış olduk. Bu işlemleri gerçekleştirirken Python, Java, Ruby, .Net, C# gibi birden fazla programlama dili kullanabilirsiniz. Ben bu yazımda sizlere Python üzerinden örnek vermeye çalışacağım.
 
-İl olarak Selenium paketimizi Python programımıza dahil edelim.
+İlk olarak Selenium paketimizi Python programımıza dahil edelim.
 
 ![image](https://user-images.githubusercontent.com/63015101/192955597-e4d2f4ce-773c-437c-82a0-512f8e3194cf.png)
 
