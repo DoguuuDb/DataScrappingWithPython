@@ -70,3 +70,5 @@ Ve dışarı aktarmış olduğumuz verilerimiz bu şekilde gözükmektedir.
 *****
 
 Bu yazımda sizlere Python programlama dilinde Selenium kütüphanesini kullanarak bir web sitesi içerisinden nasıl veri kazıma yapılır bunu anlatmaya çalıştım. Bu noktaya kadar sabredip inceleyip-okuduğunuz için teşekkür ederim.
+
+Medium Link: https://medium.com/@DOGU.dev/python-ile-veri-kaz%C4%B1ma-otomasyonu-worldometer-%C3%B6rne%C4%9Fi-f524b35fbca5
